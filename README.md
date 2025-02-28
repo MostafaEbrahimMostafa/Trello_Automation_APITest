@@ -77,7 +77,10 @@ TrelloAPI/
     - Update a check item.
     - Delete a check item.
 
-    
+## 🎥 Project Demo
+Check out the full project demonstration video here:  
+📺 **[Watch Demo](https://drive.google.com/file/d/1voxjf4shzsh0eZ-MkiZpLD6uFgyUDAds/view?usp=drive_link)**  
+
 This project represents a **significant step in API test automation**, integrating **RestAssured and TestNG** to streamline API validation. Through the implementation of **best practices in API automation**, the project aims to:
 
 - ✅ **Automate Trello API functionalities**, including board, list, and card operations.
